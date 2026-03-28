@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         DOCKERHUB_CREDENTIALS = credentials('docker-hub-credentials')
-        DOCKER_USER = "atharvaramawat" 
+        DOCKER_USER = "atharvaramawa" 
         
         IMAGE_TAG = "v${BUILD_NUMBER}" 
         GIT_CREDENTIALS_ID = 'github-pat-token'
