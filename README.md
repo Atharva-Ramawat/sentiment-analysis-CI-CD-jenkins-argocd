@@ -1,4 +1,4 @@
-# 🎭 AI Sentiment Analysis (Jenkins + Argo CD + Kubernetes)
+# AI Sentiment Analysis (Jenkins + Argo CD + Kubernetes)
 
 A full-stack AI application that analyzes the sentiment of user text (Positive, Negative, Neutral). This project demonstrates a complete **DevSecOps** workflow using **Jenkins** for CI, **Argo CD** for GitOps CD, and **Kubernetes** for orchestration.
 
