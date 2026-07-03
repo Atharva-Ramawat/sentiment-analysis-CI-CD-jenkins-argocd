@@ -7,6 +7,6 @@ spec:
   selector:
     app: sentiment-app
   ports:
-  - port: 8501        
+  - port: 850        
     targetPort: 8501  
     nodePort: 30007
